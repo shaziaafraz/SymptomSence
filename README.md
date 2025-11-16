@@ -69,40 +69,10 @@ npm install
 
 ---
 
-
 ### Application Flow
 - **Home Page** – Overview of features  
 - **Prediction Page** – Enter symptoms, age, and gender to get predictions  
 - **Tele-Support Page** – Access telemedicine consultation  
-
-
-
-## Project Structure
-
-```
-SymptomSense/
-├── backend/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── model.pkl
-│   ├── tfidf.pkl
-│   ├── mapping.json
-│   ├── label_encoder.pkl
-│   └── symptomsense_final_40diseases.csv
-├── frontend/
-│   ├── public/
-│   │   └── index.html
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   ├── api/client.js
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── styles/
-│   ├── package.json
-│   └── README.md
-└── README.md
-```
 
 ---
 
