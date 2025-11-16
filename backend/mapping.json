@@ -1,0 +1,62 @@
+{
+    "Appendicitis": {
+        "severity": "High",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Immediate emergency care.",
+        "description": "Condition related to appendicitis."
+    },
+    "Asthma": {
+        "severity": "Medium",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Consult doctor in 24-48 h.",
+        "description": "Condition related to asthma."
+    },
+    "COVID-19": {
+        "severity": "Medium",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Consult doctor in 24-48 h.",
+        "description": "Condition related to covid-19."
+    },
+    "Common Cold": {
+        "severity": "Medium",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Consult doctor in 24-48 h.",
+        "description": "Condition related to common cold."
+    },
+    "Gastroenteritis": {
+        "severity": "Low",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Self-care and monitor.",
+        "description": "Condition related to gastroenteritis."
+    },
+    "Heart Attack": {
+        "severity": "Medium",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Consult doctor in 24-48 h.",
+        "description": "Condition related to heart attack."
+    },
+    "Influenza": {
+        "severity": "Low",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Self-care and monitor.",
+        "description": "Condition related to influenza."
+    },
+    "Migraine": {
+        "severity": "Low",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Self-care and monitor.",
+        "description": "Condition related to migraine."
+    },
+    "Pneumonia": {
+        "severity": "Low",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Self-care and monitor.",
+        "description": "Condition related to pneumonia."
+    },
+    "UTI": {
+        "severity": "Low",
+        "medication": "General supportive or doctor-advised treatment",
+        "recommendation": "Self-care and monitor.",
+        "description": "Condition related to uti."
+    }
+}

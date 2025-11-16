@@ -1,0 +1,351 @@
+symptoms,disease,age_group,gender,severity,medication,recommendation,description
+"chills, body ache",Influenza,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"fatigue, cough",Influenza,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"severe headache, light sensitivity",Migraine,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"chest pain, nausea, arm pain",Heart Attack,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"severe headache, vomiting, nausea",Migraine,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"wheezing, shortness of breath, chest tightness",Asthma,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"abdominal pain, burning urination, frequent urination",UTI,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"fever, cough",Influenza,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to influenza.
+"abdominal pain, vomiting",Gastroenteritis,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fatigue, body ache",Influenza,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"abdominal pain, frequent urination",UTI,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"abdominal pain, diarrhea, fever",Gastroenteritis,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"nausea, chest pain, arm pain",Heart Attack,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"loss of smell, fatigue, dry cough",COVID-19,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"fever, loss of smell, fatigue",COVID-19,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"nausea, fever",Appendicitis,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to appendicitis.
+"abdominal pain, burning urination",UTI,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"abdominal pain, vomiting",Gastroenteritis,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"abdominal pain, burning urination",UTI,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"dry cough, loss of smell",COVID-19,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"diarrhea, fever, vomiting",Gastroenteritis,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"severe headache, light sensitivity",Migraine,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"chest pain, shortness of breath",Pneumonia,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"wheezing, chest tightness, shortness of breath",Asthma,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"fever, loss of smell, fatigue",COVID-19,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"chest tightness, wheezing",Asthma,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"runny nose, mild fever",Common Cold,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"vomiting, severe headache, light sensitivity",Migraine,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"arm pain, chest pain, sweating",Heart Attack,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"nausea, right lower abdominal pain, fever",Appendicitis,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"vomiting, diarrhea",Gastroenteritis,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"nausea, fever",Appendicitis,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"fever, fatigue",COVID-19,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"vomiting, nausea",Migraine,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"sneezing, runny nose",Common Cold,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"abdominal pain, frequent urination, burning urination",UTI,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"cough, runny nose",Common Cold,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"fever, fatigue",COVID-19,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"chest tightness, wheezing",Asthma,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"severe headache, nausea",Migraine,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"nausea, vomiting, light sensitivity",Migraine,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"diarrhea, vomiting",Gastroenteritis,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fatigue, fever",COVID-19,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"vomiting, fever, abdominal pain",Gastroenteritis,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fever, loss of smell, dry cough",COVID-19,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"fatigue, dry cough",COVID-19,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"abdominal pain, fever",Gastroenteritis,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"chills, fever, cough",Influenza,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to influenza.
+"abdominal pain, frequent urination",UTI,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"runny nose, sore throat",Common Cold,child,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"shortness of breath, wheezing",Asthma,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"sore throat, mild fever, cough",Common Cold,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"right lower abdominal pain, fever",Appendicitis,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"chest pain, shortness of breath, fever",Pneumonia,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"fever, cough, fatigue",Influenza,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"burning urination, abdominal pain",UTI,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"diarrhea, vomiting, abdominal pain",Gastroenteritis,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fever, loss of smell, dry cough",COVID-19,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"chills, fatigue, body ache",Influenza,child,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"shortness of breath, wheezing",Asthma,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"fatigue, dry cough",COVID-19,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"abdominal pain, fever",Gastroenteritis,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"fever, right lower abdominal pain, nausea",Appendicitis,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"chest pain, shortness of breath, fever",Pneumonia,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"nausea, fever, right lower abdominal pain",Appendicitis,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to appendicitis.
+"chest pain, arm pain",Heart Attack,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"nausea, severe headache, light sensitivity",Migraine,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"nausea, arm pain",Heart Attack,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"nausea, right lower abdominal pain, fever",Appendicitis,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to appendicitis.
+"right lower abdominal pain, nausea",Appendicitis,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"nausea, sweating",Heart Attack,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"chest tightness, shortness of breath, wheezing",Asthma,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"abdominal pain, frequent urination",UTI,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"vomiting, severe headache, nausea",Migraine,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"vomiting, diarrhea",Gastroenteritis,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fever, productive cough",Pneumonia,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"chest pain, nausea, arm pain",Heart Attack,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"right lower abdominal pain, nausea, fever",Appendicitis,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"loss of smell, fever",COVID-19,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"cough, sneezing, mild fever",Common Cold,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"shortness of breath, wheezing",Asthma,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"chest pain, arm pain",Heart Attack,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"sweating, arm pain, nausea",Heart Attack,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"chest pain, arm pain",Heart Attack,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"sore throat, mild fever",Common Cold,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"fever, shortness of breath, chest pain",Pneumonia,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"productive cough, chest pain",Pneumonia,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"shortness of breath, wheezing, chest tightness",Asthma,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"abdominal pain, burning urination",UTI,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"abdominal pain, diarrhea",Gastroenteritis,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"fever, nausea, right lower abdominal pain",Appendicitis,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"loss of smell, dry cough, fatigue",COVID-19,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"light sensitivity, nausea",Migraine,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"shortness of breath, wheezing, chest tightness",Asthma,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"light sensitivity, nausea, vomiting",Migraine,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"runny nose, sore throat",Common Cold,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"loss of smell, fatigue",COVID-19,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"cough, sore throat",Common Cold,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"shortness of breath, chest tightness, wheezing",Asthma,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"sweating, arm pain, chest pain",Heart Attack,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"body ache, fatigue",Influenza,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"wheezing, chest tightness, shortness of breath",Asthma,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"abdominal pain, burning urination",UTI,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"dry cough, fatigue, loss of smell",COVID-19,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"frequent urination, abdominal pain, burning urination",UTI,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"chest pain, arm pain",Heart Attack,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"sore throat, cough",Common Cold,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"dry cough, fatigue, loss of smell",COVID-19,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"shortness of breath, wheezing, chest tightness",Asthma,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"body ache, fatigue",Influenza,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"sneezing, mild fever, sore throat",Common Cold,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"burning urination, abdominal pain, frequent urination",UTI,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"body ache, chills",Influenza,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"shortness of breath, productive cough, fever",Pneumonia,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"fever, nausea, right lower abdominal pain",Appendicitis,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"diarrhea, fever, abdominal pain",Gastroenteritis,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"burning urination, frequent urination",UTI,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"chest pain, fever, productive cough",Pneumonia,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"vomiting, fever",Gastroenteritis,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"nausea, right lower abdominal pain",Appendicitis,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"fatigue, fever, chills",Influenza,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"mild fever, cough",Common Cold,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"arm pain, nausea",Heart Attack,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"chest pain, nausea, sweating",Heart Attack,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"loss of smell, fever",COVID-19,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"cough, chills",Influenza,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"arm pain, nausea, chest pain",Heart Attack,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"fever, dry cough",COVID-19,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"frequent urination, abdominal pain",UTI,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"sweating, arm pain, nausea",Heart Attack,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"nausea, vomiting, severe headache",Migraine,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"fever, right lower abdominal pain, nausea",Appendicitis,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"wheezing, shortness of breath, chest tightness",Asthma,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"productive cough, fever, chest pain",Pneumonia,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"nausea, fever",Appendicitis,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"sore throat, cough",Common Cold,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"cough, body ache",Influenza,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"runny nose, cough, sore throat",Common Cold,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"nausea, severe headache, light sensitivity",Migraine,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"nausea, severe headache, vomiting",Migraine,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"frequent urination, abdominal pain",UTI,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"sweating, nausea, arm pain",Heart Attack,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"frequent urination, abdominal pain",UTI,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"chest tightness, shortness of breath, wheezing",Asthma,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"mild fever, sneezing",Common Cold,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"vomiting, abdominal pain",Gastroenteritis,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"chills, cough",Influenza,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"shortness of breath, productive cough",Pneumonia,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to pneumonia.
+"light sensitivity, vomiting",Migraine,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"frequent urination, abdominal pain, burning urination",UTI,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"light sensitivity, severe headache, nausea",Migraine,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"chills, fatigue, cough",Influenza,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to influenza.
+"severe headache, light sensitivity, nausea",Migraine,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"chills, cough, fever",Influenza,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"burning urination, abdominal pain, frequent urination",UTI,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"nausea, sweating, chest pain",Heart Attack,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"shortness of breath, wheezing, chest tightness",Asthma,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"severe headache, light sensitivity, nausea",Migraine,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"right lower abdominal pain, fever, nausea",Appendicitis,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"wheezing, shortness of breath",Asthma,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"nausea, light sensitivity",Migraine,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"shortness of breath, fever",Pneumonia,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"body ache, fever",Influenza,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to influenza.
+"vomiting, fever",Gastroenteritis,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fever, right lower abdominal pain",Appendicitis,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"loss of smell, fatigue",COVID-19,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"loss of smell, fatigue, fever",COVID-19,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"nausea, fever",Appendicitis,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"wheezing, chest tightness",Asthma,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"shortness of breath, chest tightness, wheezing",Asthma,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"loss of smell, dry cough",COVID-19,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"nausea, sweating, chest pain",Heart Attack,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"burning urination, frequent urination, abdominal pain",UTI,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"fever, nausea",Appendicitis,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"fever, dry cough, fatigue",COVID-19,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"mild fever, cough, sore throat",Common Cold,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"chest pain, arm pain",Heart Attack,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"frequent urination, burning urination",UTI,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"shortness of breath, productive cough, chest pain",Pneumonia,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"wheezing, chest tightness, shortness of breath",Asthma,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"nausea, right lower abdominal pain, fever",Appendicitis,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"wheezing, chest tightness",Asthma,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"cough, fatigue, body ache",Influenza,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"abdominal pain, burning urination",UTI,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"abdominal pain, frequent urination, burning urination",UTI,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"sore throat, cough",Common Cold,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"burning urination, abdominal pain, frequent urination",UTI,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"productive cough, shortness of breath, chest pain",Pneumonia,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"runny nose, sneezing, mild fever",Common Cold,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"nausea, right lower abdominal pain, fever",Appendicitis,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"chest tightness, shortness of breath, wheezing",Asthma,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"fever, right lower abdominal pain, nausea",Appendicitis,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"diarrhea, abdominal pain",Gastroenteritis,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fatigue, dry cough",COVID-19,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"chills, body ache",Influenza,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"cough, fatigue",Influenza,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"chest tightness, shortness of breath, wheezing",Asthma,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"sweating, nausea, chest pain",Heart Attack,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"chest pain, nausea, arm pain",Heart Attack,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"cough, fever, body ache",Influenza,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"chest tightness, wheezing, shortness of breath",Asthma,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"fever, body ache",Influenza,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"fatigue, dry cough",COVID-19,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"abdominal pain, diarrhea",Gastroenteritis,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"nausea, right lower abdominal pain, fever",Appendicitis,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"burning urination, abdominal pain, frequent urination",UTI,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"diarrhea, abdominal pain",Gastroenteritis,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"abdominal pain, vomiting",Gastroenteritis,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"arm pain, chest pain",Heart Attack,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"chills, body ache",Influenza,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"productive cough, shortness of breath",Pneumonia,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"fever, abdominal pain",Gastroenteritis,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"fatigue, dry cough",COVID-19,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"shortness of breath, chest tightness, wheezing",Asthma,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"light sensitivity, severe headache",Migraine,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"fever, dry cough",COVID-19,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"nausea, chest pain",Heart Attack,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"runny nose, sneezing, cough",Common Cold,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"body ache, fever, fatigue",Influenza,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"shortness of breath, productive cough",Pneumonia,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to pneumonia.
+"chest pain, nausea, sweating",Heart Attack,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"fever, dry cough, loss of smell",COVID-19,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"vomiting, severe headache, light sensitivity",Migraine,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"dry cough, loss of smell",COVID-19,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"fever, diarrhea",Gastroenteritis,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"diarrhea, vomiting",Gastroenteritis,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"nausea, right lower abdominal pain, fever",Appendicitis,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"body ache, fever, fatigue",Influenza,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"chest pain, shortness of breath, fever",Pneumonia,child,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to pneumonia.
+"sweating, chest pain",Heart Attack,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"fever, abdominal pain, vomiting",Gastroenteritis,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"light sensitivity, severe headache, nausea",Migraine,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"fever, nausea, right lower abdominal pain",Appendicitis,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"sweating, chest pain, arm pain",Heart Attack,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"shortness of breath, fever, chest pain",Pneumonia,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"arm pain, sweating, nausea",Heart Attack,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"abdominal pain, fever, diarrhea",Gastroenteritis,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fever, loss of smell",COVID-19,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"productive cough, shortness of breath",Pneumonia,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"chest tightness, wheezing",Asthma,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"diarrhea, abdominal pain, fever",Gastroenteritis,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"vomiting, diarrhea, abdominal pain",Gastroenteritis,teen,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fever, dry cough, fatigue",COVID-19,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"chest tightness, shortness of breath, wheezing",Asthma,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"nausea, chest pain",Heart Attack,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"abdominal pain, vomiting",Gastroenteritis,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fever, loss of smell",COVID-19,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"mild fever, cough, sore throat",Common Cold,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"chills, cough",Influenza,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"fever, right lower abdominal pain, nausea",Appendicitis,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"arm pain, sweating, chest pain",Heart Attack,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"mild fever, sore throat",Common Cold,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"abdominal pain, fever",Gastroenteritis,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"nausea, light sensitivity, vomiting",Migraine,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"productive cough, shortness of breath",Pneumonia,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to pneumonia.
+"runny nose, mild fever",Common Cold,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"severe headache, nausea, light sensitivity",Migraine,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"light sensitivity, nausea, severe headache",Migraine,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"nausea, arm pain, chest pain",Heart Attack,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"fever, diarrhea, vomiting",Gastroenteritis,child,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"severe headache, nausea, light sensitivity",Migraine,teen,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"sneezing, mild fever, runny nose",Common Cold,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"vomiting, fever",Gastroenteritis,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"burning urination, abdominal pain, frequent urination",UTI,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"severe headache, vomiting, nausea",Migraine,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"fever, dry cough",COVID-19,adult,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"abdominal pain, diarrhea, vomiting",Gastroenteritis,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"fever, dry cough, fatigue",COVID-19,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"wheezing, chest tightness",Asthma,adult,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"dry cough, fever, loss of smell",COVID-19,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"cough, sneezing",Common Cold,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"shortness of breath, chest tightness",Asthma,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"abdominal pain, frequent urination, burning urination",UTI,child,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"fever, abdominal pain",Gastroenteritis,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"arm pain, sweating, chest pain",Heart Attack,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"dry cough, fatigue, fever",COVID-19,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"cough, sneezing, runny nose",Common Cold,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"fever, fatigue, loss of smell",COVID-19,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"fever, vomiting, diarrhea",Gastroenteritis,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"fever, diarrhea, abdominal pain",Gastroenteritis,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"abdominal pain, burning urination, frequent urination",UTI,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"fatigue, fever, dry cough",COVID-19,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"frequent urination, burning urination",UTI,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"burning urination, abdominal pain, frequent urination",UTI,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"body ache, fever",Influenza,teen,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"severe headache, nausea",Migraine,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"productive cough, chest pain",Pneumonia,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to pneumonia.
+"light sensitivity, nausea, severe headache",Migraine,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to migraine.
+"sneezing, sore throat",Common Cold,senior,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"fever, chest pain, productive cough",Pneumonia,child,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to pneumonia.
+"abdominal pain, frequent urination, burning urination",UTI,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to uti.
+"light sensitivity, severe headache",Migraine,senior,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"burning urination, frequent urination",UTI,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"shortness of breath, chest tightness, wheezing",Asthma,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"shortness of breath, fever, chest pain",Pneumonia,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"sweating, arm pain, chest pain",Heart Attack,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"severe headache, nausea",Migraine,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"fever, fatigue, dry cough",COVID-19,teen,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"productive cough, chest pain, shortness of breath",Pneumonia,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"severe headache, light sensitivity",Migraine,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"wheezing, chest tightness",Asthma,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"diarrhea, abdominal pain, fever",Gastroenteritis,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"fever, dry cough, loss of smell",COVID-19,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"chest tightness, shortness of breath",Asthma,adult,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"cough, runny nose, mild fever",Common Cold,child,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"fever, right lower abdominal pain, nausea",Appendicitis,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"burning urination, abdominal pain, frequent urination",UTI,senior,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"right lower abdominal pain, fever, nausea",Appendicitis,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"fever, right lower abdominal pain",Appendicitis,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"nausea, chest pain, sweating",Heart Attack,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"abdominal pain, burning urination",UTI,senior,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to uti.
+"sore throat, runny nose",Common Cold,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"wheezing, chest tightness",Asthma,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"fever, loss of smell",COVID-19,adult,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"chest tightness, shortness of breath, wheezing",Asthma,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"loss of smell, dry cough",COVID-19,child,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"chest tightness, shortness of breath",Asthma,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"abdominal pain, fever, vomiting",Gastroenteritis,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to gastroenteritis.
+"fever, nausea",Appendicitis,teen,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
+"fever, shortness of breath, productive cough",Pneumonia,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"nausea, vomiting, severe headache",Migraine,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"fever, dry cough",COVID-19,child,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to covid-19.
+"vomiting, severe headache",Migraine,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"severe headache, light sensitivity",Migraine,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"shortness of breath, wheezing",Asthma,adult,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to asthma.
+"fever, nausea, right lower abdominal pain",Appendicitis,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to appendicitis.
+"chest pain, sweating, arm pain",Heart Attack,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to heart attack.
+"diarrhea, abdominal pain, fever",Gastroenteritis,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to gastroenteritis.
+"frequent urination, burning urination, abdominal pain",UTI,teen,female,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to uti.
+"shortness of breath, chest tightness",Asthma,senior,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"arm pain, sweating, nausea",Heart Attack,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to heart attack.
+"dry cough, fatigue, fever",COVID-19,child,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to covid-19.
+"sneezing, sore throat",Common Cold,teen,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"productive cough, shortness of breath",Pneumonia,adult,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to pneumonia.
+"chest tightness, shortness of breath, wheezing",Asthma,senior,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to asthma.
+"mild fever, cough, runny nose",Common Cold,senior,male,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to common cold.
+"fatigue, body ache",Influenza,teen,any,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to influenza.
+"fatigue, dry cough, loss of smell",COVID-19,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to covid-19.
+"arm pain, nausea",Heart Attack,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to heart attack.
+"sneezing, mild fever",Common Cold,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"runny nose, sneezing",Common Cold,adult,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to common cold.
+"body ache, fatigue",Influenza,senior,female,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to influenza.
+"cough, runny nose",Common Cold,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to common cold.
+"vomiting, severe headache",Migraine,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to migraine.
+"light sensitivity, nausea, severe headache",Migraine,child,any,High,General supportive or doctor-advised treatment,Immediate emergency care.,Condition related to migraine.
+"diarrhea, vomiting",Gastroenteritis,child,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"shortness of breath, wheezing, chest tightness",Asthma,senior,male,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to asthma.
+"fever, diarrhea, vomiting",Gastroenteritis,adult,male,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to gastroenteritis.
+"chills, body ache",Influenza,teen,any,Medium,General supportive or doctor-advised treatment,Consult doctor in 24-48 h.,Condition related to influenza.
+"nausea, right lower abdominal pain, fever",Appendicitis,adult,female,Low,General supportive or doctor-advised treatment,Self-care and monitor.,Condition related to appendicitis.
